@@ -15,8 +15,10 @@
     "morgan": "1.10.0",
     "nodemon": "^2.0.19",
     "parcel": "^2.7.0",
+    "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.2",
     "sequelize": "^6.23.2",
     "sqlite3": "^5.1.1"
   },
@@ -26,6 +28,7 @@
     "@testing-library/react": "^12.0.0",
     "babel-jest": "^27.1.0",
     "jest": "^27.1.0",
+    "process": "^0.11.10",
     "react-test-renderer": "18.2.0"
   }
 }
